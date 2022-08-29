@@ -6,7 +6,8 @@ const FooterCopyright = () => (
     <span role="img" aria-label="Love">
       ♥
     </span>{' '}
-    by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+    by <a href="https://aws.amazon.com/">AWS</a> and{' '}
+    <a href="https://slash.co">Slash</a>
     {/*
      * PLEASE READ THIS SECTION
      * We'll really appreciate if you could have a link to our website
