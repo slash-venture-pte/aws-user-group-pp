@@ -6,9 +6,17 @@ import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
+import analytics from '../utils/Analytic';
 import { Logo } from './Logo';
 
 const Hero = () => {
+  const trackRSVP = () => {
+    /* Track a custom event */
+    analytics.event({
+      category: 'RSVP',
+      action: 'link-header',
+    });
+  };
   const router = useRouter();
   return (
     <Background color="bg-gray-100">
@@ -35,7 +43,10 @@ const Hero = () => {
           }
           description="October 16th, 2022"
           button={
-            <Link href="https://creativedesignsguru.com/category/nextjs/">
+            <Link
+              onClick={trackRSVP}
+              href="https://www.eventbrite.sg/e/aws-community-day-phnom-penh-tickets-411735069677?aff=ebdsoporgprofile"
+            >
               <a>
                 <Button xl>Register your RSVP Here</Button>
               </a>
