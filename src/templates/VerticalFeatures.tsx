@@ -60,7 +60,7 @@ const VerticalFeatures = () => {
         <Link
           onClick={trackRSVP}
           className="text-primary-500 "
-          href="https://www.eventbrite.com/e/aws-deepracer-phnom-penh-tickets-41173813885"
+          href="https://www.eventbrite.sg/e/aws-deepracer-phnom-penh-tickets-411738138857?aff=ebdsoporgprofile"
         >
           <span className="text-primary-500 ">
             Register for AWS DeepRacer League on October 16th 2022
