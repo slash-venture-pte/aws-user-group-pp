@@ -45,7 +45,7 @@ const Hero = () => {
           button={
             <Link
               onClick={trackRSVP}
-              href="https://www.eventbrite.sg/e/aws-community-day-phnom-penh-tickets-411735069677?aff=ebdsoporgprofile"
+              href="https://airtable.com/shrGNaItTzpVCQA5Q"
             >
               <a>
                 <Button xl>Register your RSVP Here</Button>

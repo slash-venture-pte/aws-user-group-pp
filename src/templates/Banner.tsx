@@ -10,7 +10,7 @@ const Banner = () => (
       title="Don't want to miss the AWSome day!"
       subtitle="Register and save the date!"
       button={
-        <Link href="https://www.eventbrite.sg/e/aws-community-day-phnom-penh-tickets-411735069677?aff=ebdsoporgprofile">
+        <Link href="https://airtable.com/shrGNaItTzpVCQA5Q">
           <a>
             <Button>RSVP Now</Button>
           </a>

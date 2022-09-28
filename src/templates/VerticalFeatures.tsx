@@ -26,7 +26,7 @@ const VerticalFeatures = () => {
         <Link
           onClick={trackRSVP}
           className="text-primary-500"
-          href="https://www.eventbrite.sg/e/aws-community-day-phnom-penh-tickets-411735069677?aff=ebdsoporgprofile"
+          href="https://airtable.com/shrGNaItTzpVCQA5Q"
         >
           <span className="text-primary-500 ">
             Register for the Community day!
@@ -60,7 +60,7 @@ const VerticalFeatures = () => {
         <Link
           onClick={trackRSVP}
           className="text-primary-500 "
-          href="https://www.eventbrite.sg/e/aws-deepracer-phnom-penh-tickets-411738138857?aff=ebdsoporgprofile"
+          href="https://airtable.com/shr1EGYNBPLroaJZV"
         >
           <span className="text-primary-500 ">
             Register for AWS DeepRacer League on October 16th 2022
@@ -86,31 +86,49 @@ const VerticalFeatures = () => {
       </div>
       <ul className="list-disc text-left mt-4 text-xl md:px-20 leading-10">
         <li>
-          <b>10am - 10:30am:</b> Keynote (30min)
+          <b>12pm - 12:40am:</b> Keynote (40min)
         </li>
         <li>
-          <b>10:30am - 12 pm:</b> Fireside Chat (90min)
+          <b>12:40pm - 1:20pm:</b> Fireside Chat (40min)
         </li>
         <li>
-          <b>12pm – 12:45 pm:</b> Lunch Break (45min)
+          <b>1:20pm - 5:30pm:</b> Deep Racer League (210min)
         </li>
         <li>
-          <b>12:45pm –1:30pm:</b> Breakout sessions 1 (45min)
+          <b>1.20pm – 2.00pm:</b> Breakout sessions 1 (30min)
         </li>
         <li>
-          <b>1:30pm – 2:15pm:</b> Breakout sessions 2 (45min)
+          <b>2.00pm – 2.30pm:</b> Breakout sessions 2 (30min)
         </li>
         <li>
-          <b>2:15pm – 3pm:</b> Breakout sessions 3 (45min)
+          <b>2.30pm – 3.00pm:</b> Breakout sessions 3 (30min)
         </li>
         <li>
-          <b>3pm - 3:45pm:</b> Breakout sessions 4 (45min)
+          <b>3:00pm – 3.15pm:</b> Quiz & Photo Contest (15min)
         </li>
         <li>
-          <b>3:45pm - 5:30pm:</b> Deep Racer League (105min)
+          <b>3.15pm – 3.45pm:</b> Breakout sessions 4 (30min)
         </li>
         <li>
-          <b>5:30pm - 6pm:</b> Closing and DRL Awards (30min)
+          <b>3.15pm – 4.45pm:</b> Breakout sessions 5 (30min)
+        </li>
+        <li>
+          <b>4.45pm – 5.15pm:</b> Breakout sessions 6 (30min)
+        </li>
+        <li>
+          <b>5:15pm - 5:30pm:</b> Quiz and Photo Contest (15min)
+        </li>
+        <li>
+          <b>5:30pm - 6pm:</b> Q&A (30min)
+        </li>
+        <li>
+          <b>6pm - 6.15pm:</b> AWS DeepRacer League Awarding Ceremony (15min)
+        </li>
+        <li>
+          <b>6.15pm - 6.30pm:</b> Closing Keynote (15min)
+        </li>
+        <li>
+          <b>6:30pm - 7pm:</b> Networking (30min)
         </li>
       </ul>
       <VerticalFeatureRow
