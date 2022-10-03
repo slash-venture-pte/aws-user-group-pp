@@ -86,49 +86,43 @@ const VerticalFeatures = () => {
       </div>
       <ul className="list-disc text-left mt-4 text-xl md:px-20 leading-10">
         <li>
-          <b>12pm - 12:40am:</b> Keynote (40min)
+          <b>1:00 PM - 1:30 PM:</b> Keynote
         </li>
         <li>
-          <b>12:40pm - 1:20pm:</b> Fireside Chat (40min)
+          <b>1:30 PM - 2:15 PM:</b> Fireside Chat
         </li>
         <li>
-          <b>1:20pm - 5:30pm:</b> Deep Racer League (210min)
+          <b>2.15 PM – 2.45 PM:</b> Session 1
         </li>
         <li>
-          <b>1.20pm – 2.00pm:</b> Breakout sessions 1 (30min)
+          <b>2.45 PM – 3.15 PM:</b> Session 2
         </li>
         <li>
-          <b>2.00pm – 2.30pm:</b> Breakout sessions 2 (30min)
+          <b>3:00 PM - 5:30 PM:</b> Deep Racer League
         </li>
         <li>
-          <b>2.30pm – 3.00pm:</b> Breakout sessions 3 (30min)
+          <b>3:15 PM – 3.30 PM:</b> Session 3
         </li>
         <li>
-          <b>3:00pm – 3.15pm:</b> Quiz & Photo Contest (15min)
+          <b>3:30 PM – 3:45 PM:</b> Quiz & Photo Contest
         </li>
         <li>
-          <b>3.15pm – 3.45pm:</b> Breakout sessions 4 (30min)
+          <b>3:45 PM – 4.15 PM:</b> Session 4
         </li>
         <li>
-          <b>3.15pm – 4.45pm:</b> Breakout sessions 5 (30min)
+          <b>4:15 PM – 4:45 PM:</b> Session 5
         </li>
         <li>
-          <b>4.45pm – 5.15pm:</b> Breakout sessions 6 (30min)
+          <b>4.45 PM – 5.00 PM:</b> Session 6
         </li>
         <li>
-          <b>5:15pm - 5:30pm:</b> Quiz and Photo Contest (15min)
+          <b>5:00 PM - 5:15 PM:</b> Quiz and Photo Contest
         </li>
         <li>
-          <b>5:30pm - 6pm:</b> Q&A (30min)
+          <b>5:15 PM - 5:45 PM:</b> Q&A
         </li>
         <li>
-          <b>6pm - 6.15pm:</b> AWS DeepRacer League Awarding Ceremony (15min)
-        </li>
-        <li>
-          <b>6.15pm - 6.30pm:</b> Closing Keynote (15min)
-        </li>
-        <li>
-          <b>6:30pm - 7pm:</b> Networking (30min)
+          <b>5:45 PM - 6:00 PM:</b> Closing and DRL Award
         </li>
       </ul>
       <VerticalFeatureRow
