@@ -89,31 +89,37 @@ const VerticalFeatures = () => {
           <b>1:00 PM - 1:30 PM:</b> Keynote
         </li>
         <li>
-          <b>1:30 PM - 2:15 PM:</b> Fireside Chat
+          <b>1:30 PM - 2:15 PM:</b> Fireside Chat: Different Cloud Journeys For
+          Builders
         </li>
         <li>
-          <b>2.15 PM – 2.45 PM:</b> Session 1
+          <b>2.15 PM – 2.45 PM:</b> Session 1: Ease lambda deployment replicated
+          with Terraform module
         </li>
         <li>
-          <b>2.45 PM – 3.15 PM:</b> Session 2
+          <b>2.45 PM – 3.15 PM:</b> Session 2: Scaling Architecture with AWS
+          Services
         </li>
         <li>
           <b>3:00 PM - 5:30 PM:</b> Deep Racer League
         </li>
         <li>
-          <b>3:15 PM – 3.30 PM:</b> Session 3
+          <b>3:15 PM – 3.30 PM:</b> Session 3: AWS CDK and Serverless
+          Applications
         </li>
         <li>
           <b>3:30 PM – 3:45 PM:</b> Quiz & Photo Contest
         </li>
         <li>
-          <b>3:45 PM – 4.15 PM:</b> Session 4
+          <b>3:45 PM – 4.15 PM:</b> Session 4: A Pragmatic Introduction to
+          Microservices
         </li>
         <li>
-          <b>4:15 PM – 4:45 PM:</b> Session 5
+          <b>4:15 PM – 4:45 PM:</b> Session 5: AWS and Machine Learning
         </li>
         <li>
-          <b>4.45 PM – 5.00 PM:</b> Session 6
+          <b>4.45 PM – 5.00 PM:</b> Session 6: Using AI algorithms to classify
+          images
         </li>
         <li>
           <b>5:00 PM - 5:15 PM:</b> Quiz and Photo Contest
